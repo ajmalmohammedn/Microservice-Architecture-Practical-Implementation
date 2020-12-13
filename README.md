@@ -24,7 +24,7 @@ For more information on [Spring vs Spring Boot](https://www.baeldung.com/spring-
 
 ## Prerequisites
 
-* A favorite text editor or IDE ([STS](https://spring.io/tools) preferred cause it's free)
+* A favorite text editor or IDE ([STS](https://spring.io/tools) preferred 'cause it's free)
 
 * JDK 1.8 or later (Download from [here](https://www.oracle.com/java/technologies/javase-downloads.html))
  
@@ -38,7 +38,7 @@ For more information on [Spring vs Spring Boot](https://www.baeldung.com/spring-
 
 > clone this repository
 
-> import the project that you want explore
+> import the project that you want explore in **STS**
 
 > open README.md file for that project in IDE or Text Editor that supports **Markdown** to view the file with proper formatting. Personally I find [VSCode](https://code.visualstudio.com/download) really easy to edit/view **Markdowns**. You can also preview the changes in realtime. Refer below image to see the difference between **Raw and Formatted Markdown.**
 
