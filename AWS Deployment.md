@@ -160,14 +160,13 @@ If you get a **BUILD SUCCESS** message, your project have been built successfull
 
 * If you get an error port 8080 is already is being used, that is because your older microservice is still running in the background. You'll have to kill the older microservice process, execute to following command to kill the process.
 
-First find the process ID(PID) of the process that is using port 8080
-by executing the following command 
+* First find the process ID(PID) of the process that is using port 8080 by executing the following command 
 
 > lsof -i :8080
 
 ![PID](./static/pid.png)
 
-Kill the process by executing the following commad.
+* Kill the process by executing the following commad.
 
 > kill -9 45590
 
