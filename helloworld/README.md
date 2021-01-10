@@ -102,7 +102,7 @@ public class RestAPI {
 
 ![ip](src/main/resources/static/ip.png)
 
-* Now we have the **IP** of the system on which our service is running. Open your phone's browser and type `http://192.168.1.4:8080/greeting` in URL bar and hit enter. You should see the same message as what was displayed on your laptop/PC's browser i.e **Hello! World**. Similarly use the endpoint with **name** parameter as `http://192.168.1.4:8080/greeting?name=Rajeev` to see the message **Hello! Rajeev**. You can also access endpoints from your laptop/PC's browser simultaneously. For verifying that both the browsers are accessing the endpoint independently use different values in **name** parameter. For example in laptop browser use `http://localhost:8080/greeting?name=Rajeev` and in mobile browser use `http://localhost:8080/greeting?name=John`. 
+* Now we have the **IP** of the system on which our service is running. Open your phone's browser and type `http://192.168.1.4:8080/greeting` in URL bar and hit enter. You should see the same message as what was displayed on your laptop/PC's browser i.e **Hello! World**. Similarly use the endpoint with **name** parameter as `http://192.168.1.4:8080/greeting?name=Rajeev` to see the message **Hello! Rajeev**. You can also access endpoints from your laptop/PC's browser simultaneously. For verifying that both the browsers are accessing the endpoint independently use different values in **name** parameter. For example in laptop browser use `http://localhost:8080/greeting?name=Rajeev` and in mobile browser use `http://192.168.1.4:8080/greeting?name=John`. 
 
 ![mobile response1](src/main/resources/static/mobile1.png) ![mobile response2](src/main/resources/static/mobile2.png)
 
